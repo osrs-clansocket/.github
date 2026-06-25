@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ClanSocket website
+    url: https://clansocket.com
+    about: Dashboard, claiming your clan, and general info.
+  - name: Plugin setup & wiki
+    url: https://github.com/osrs-clansocket/clansocket-plugin/wiki
+    about: How to install and use the RuneLite plugin.
+  - name: Security report
+    url: https://github.com/osrs-clansocket/.github/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately, not as a public issue.
